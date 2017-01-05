@@ -6,6 +6,8 @@ Primeiro, crie um fork deste repositorio e brinque com o super simples aplicativ
 
     python tkcastalio.py
 
+![screenshot](https://github.com/CastalioPodcast/playground/blob/master/Screenshot%202017-01-05%2014.55.06.png)
+
 Caso você queira melhorar o programa (o que eu recomndo fortemente), como adicionando novos recursos, documentação, etc, faça o seguinte:
 * Crie um novo [issue](https://github.com/omaciel/playground/issues/new) descrevendo o problema a ser resolvido ou recurso a ser adicionado
 * Trabalhe no seu fork com a solução
