@@ -9,7 +9,8 @@ como um `add-on`_, uma vez instalado, você terá uma entrada no menu de **Ferra
 iniciar o `Selenium IDE`_. Uma vez iniciado, uma nova janela se abrirá onde você poderá 
 entao gravar suas ações no Firefox.
 
-![Janela do Selenium IDE](https://github.com/CastalioPodcast/playground/blob/master/episode101/selenium_ide.png)
+:image: https://github.com/CastalioPodcast/playground/blob/master/episode101/selenium_ide.png
+:image-alt: Janela do Selenium IDE
 
 **NOTA**: Nao se esqueça de pressionar o botão de gravar para iniciar ou reproduzir a gravação.
 
