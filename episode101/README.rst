@@ -4,17 +4,20 @@ Selenium IDE
 Instalando o Selenium IDE
 -------------------------
 
-Lembrando-se que o somente o navegador **Firefox** possui a opçao de usar o `Selenium IDE`_ 
-como um `add-on`_, uma vez instalado, você terá uma entrada no menu de **Ferramentas** para 
-iniciar o `Selenium IDE`_. Uma vez iniciado, uma nova janela se abrirá onde você poderá 
-entao gravar suas ações no Firefox.
+Lembrando que somente o navegador **Firefox** possui a opção de usar o
+`Selenium IDE`_ como um `add-on`_, uma vez instalado, você terá uma entrada no
+menu de **Ferramentas** para iniciar o `Selenium IDE`_. Uma vez iniciado, uma
+nova janela se abrirá onde você poderá então gravar suas ações no Firefox.
 
-:image: https://github.com/CastalioPodcast/playground/blob/master/episode101/selenium_ide.png
-:image-alt: Janela do Selenium IDE
+.. image:: https://raw.githubusercontent.com/CastalioPodcast/playground/master/episode101/selenium_ide.png
+   :alt: Janela do Selenium IDE
 
-**NOTA**: Nao se esqueça de pressionar o botão de gravar para iniciar ou reproduzir a gravação.
+**NOTA**: Não se esqueça de pressionar o botão de gravar para iniciar ou
+reproduzir a gravação.
 
-A interface do `Selenium IDE`_ te permite criar um ou vários testes, reproduzí-lo(s) ou ate mesmo exportá-lo(s) para outras linguagens de programação, como o exemplo abaixo em **Python**::
+A interface do `Selenium IDE`_ te permite criar um ou vários testes,
+reproduzí-lo(s) ou até mesmo exportá-lo(s) para outras linguagens de
+programação, como o exemplo abaixo em **Python**::
 
     # -*- coding: utf-8 -*-
     from selenium import webdriver
@@ -68,7 +71,6 @@ A interface do `Selenium IDE`_ te permite criar um ou vários testes, reproduzí
 
     if __name__ == "__main__":
         unittest.main()
-
 
 
 Selenium via Python
